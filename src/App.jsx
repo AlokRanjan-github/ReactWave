@@ -5,6 +5,8 @@ import Hero from "./components/Hero";
 import Benefits from "./components/Benefits";
 import Services from "./components/Services";
 import Pricing from "./components/Pricing";
+import Roadmap from "./components/Roadmap";
+import Footer from "./components/Footer";
 
 
 const App = () => {
@@ -17,6 +19,8 @@ const App = () => {
         <Collaboration />
         <Services />
         <Pricing />
+        <Roadmap />
+        <Footer />
 
       </div>
       <ButtonGradient />
